@@ -1,0 +1,6 @@
+﻿  Masina.cpp
+  Roata.cpp
+  Rotite.cpp
+  Generating Code...
+E:\GitHub\Rotite\Rotite\Masina.cpp(11): warning C4715: 'Masina::VerificaRoti': not all control paths return a value
+  Rotite.vcxproj -> E:\GitHub\Rotite\Debug\Rotite.exe
